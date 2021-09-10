@@ -30,7 +30,7 @@
     width: 60%;
     float: left;
     text-align: center;
-    padding-top: 0.8rem;
+    padding-top: 0.6rem;
 }
 .classe3 {
     width: 20%;
@@ -53,5 +53,9 @@ a {
    margin: 0px 20px;
    font-size: 15px;
 }
-
+.parte1 {
+    background-image: url(./img/jumbo.png);
+    height: 500px;
+    width: 100%;
+    object-fit: contain;
 }
