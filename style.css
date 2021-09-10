@@ -159,6 +159,18 @@ h1 {
 .onda, .onda1 {
     display: block;
 }
+.main4 {
+    padding-top: 7rem;
+}
+.classe8 {
+    width: 60%;
+    float: left;
+}
+.classe9 {
+    width: 40%;
+    float: left;
+    font-size: 25px;
+}
 
 
 
