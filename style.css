@@ -57,7 +57,7 @@ a {
    margin: 0px 20px;
    font-size: 15px;
 }
-.parte1 {
+.main1 {
     background-image: url(./img/jumbo.png);
     height: 468px;
     background-size: cover;
@@ -107,3 +107,58 @@ h1 {
     color: white;
     background-color: black;
 }
+.main2 {
+    width: 70%;
+    margin: auto;
+    padding-bottom: 7rem;
+}
+.classe4 {
+    width: 60%;
+    float: left;
+    padding-top: 6rem;
+}
+.classe5 {
+    width: 40%;
+    float: left;
+    padding-top: 7.7rem;
+    font-size: 25px;
+}
+.img1 {
+    width: 500px;
+}
+.para2 {
+    font-size: 15px;
+    margin-top: 1.5rem;
+    line-height: 20px;
+}
+.classe6 {
+    width: 40%;
+    float: left;
+    font-size: 25px;
+    padding-top: 2.5rem;
+}
+.classe7 {
+    width: 60%;
+    float: left;
+}
+.main3 {
+    background-color: #F6F6F6;
+    height:400px;
+}
+.img2 {
+    width: 500px;
+}
+.para3 {
+    font-size: 15px;
+    margin-top: 1.5rem;
+    line-height: 20px;
+}
+.onde1 {
+    transform:rotate(180deg);
+}
+.onda, .onda1 {
+    display: block;
+}
+
+
+
