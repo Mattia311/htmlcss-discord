@@ -4,14 +4,17 @@
     margin: 0%;
 }
 .head {
-    background-color:#3060DF;
+    background-color:#3364df0e;
     width: 100%;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
+    position: absolute;
+    z-index: 2;
 }
 header {
-    position: absolute;
+    
     width: 100%;
+    
 }
 .clearfix::after {
     content: "";
@@ -62,14 +65,13 @@ header {
 }
 .main1 {
     background-image: url(./img/jumbo.png);
-    height: 468px;
+    height:584px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
     position: relative;
-}
-main {
-    padding-top: 82px;
+    z-index: -1;
+    
 }
 .abso {
     position: absolute;
